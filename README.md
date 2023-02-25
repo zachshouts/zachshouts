@@ -10,6 +10,6 @@ I began my programming journey at Lake Superior College in 2020 before transferr
 
 ## Connect With Me
 
-[Portfolio](https://zachshouts.github.io/portfolio/)
-[LinkedIn](https://www.linkedin.com/in/zach-shouts/)
+[Portfolio](https://zachshouts.github.io/portfolio/)\
+[LinkedIn](https://www.linkedin.com/in/zach-shouts/)\
 [zachshouts@gmail.com](zachshouts@gmail.com)
