@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Zach Shouts, a Full Stack Developer with a versatile background in all things coding. I am currently looking for a role, but in the meantime, I am building on my skills and learning whatever I can to become a more experienced developer.
+I'm Zach Shouts, a Full Stack Developer with a versatile background in all things coding. I am currently looking for a full-time role, but in the meantime, I am building on my skills and learning whatever I can to become a more experienced developer.
 
 
 ## Experience
