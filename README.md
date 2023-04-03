@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zach Shouts,</h1>
 <h3 align="center">A Full Stack Developer from Minnesota.</h3>
 
-- 🔭 I’m currently working on [Topic Talks](https://github.com/zachshouts/topic-talks)
+- 🔭 I’m currently working on [Tech Blog V2](https://github.com/zachshouts/tech-blog-v2)
 
-- 🌱 I’m currently learning **Advanced React, Python, Django**
+- 🌱 I’m currently learning **Advanced React and Python**
 
 - 👨‍💻 My portfolio is available at [https://zachshouts.github.io/portfolio/](https://zachshouts.github.io/portfolio/)
 
