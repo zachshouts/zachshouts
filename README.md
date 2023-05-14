@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach Shouts,</h1>
 <h3 align="center">A Full Stack Developer from Minnesota.</h3>
 
-- 🔭 I’m currently working as a Software Engineer Apprentice at LionHeart.
+- 🔭 I’m currently working as a Software Engineer Apprentice at Lionheart.
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
