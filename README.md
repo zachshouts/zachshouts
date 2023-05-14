@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zach Shouts,</h1>
 <h3 align="center">A Full Stack Developer from Minnesota.</h3>
 
-- 🔭 I’m currently working on [Tech Blog V2](https://github.com/zachshouts/tech-blog-v2)
+- 🔭 I’m currently working as a Software Engineer Apprentice at LionHeart.
 
-- 🌱 I’m currently learning **Advanced React and Python**
+- 🌱 I’m currently learning **Amazon Web Services**
 
 - 👨‍💻 My portfolio is available at [https://zachshouts.github.io/portfolio/](https://zachshouts.github.io/portfolio/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [My Resume](https://zachshouts.github.io/portfolio/public/assets/pdf/ZachShouts_Resume.pdf)
 
-- ⚡ Fun fact **I am a first generation programmer**
+- ⚡ Fun fact **I am a first generation Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
