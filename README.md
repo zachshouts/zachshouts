@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Engineer Apprentice at Lionheart.
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 My current side project is a refactor of my old tech blog.
 
 - 👨‍💻 My portfolio is available at [https://zachshouts.github.io/portfolio/](https://zachshouts.github.io/portfolio/)
 
