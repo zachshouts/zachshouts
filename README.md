@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zach Shouts,</h1>
 <h3 align="center">A Full Stack Developer from Minnesota.</h3>
 
-- 🔭 I’m currently working as a Software Engineer Apprentice at Lionheart.
+- 🔭 I’m actively seeking new opportunities.
 
-- 🌱 My current side project is a refactor of my old tech blog.
+- 🌱 My current focus is on learning more about Python and how it is integrated into web development.
 
 - 👨‍💻 My portfolio is available at [https://zachshouts.github.io/portfolio/](https://zachshouts.github.io/portfolio/)
 
