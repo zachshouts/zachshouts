@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach Shouts,</h1>
-<h3 align="center">A Full Stack Developer from Minnesota.</h3>
+<h3 align="center">A Software Engineer from Minnesota.</h3>
 
 - 🔭 I’m actively seeking new opportunities.
 
